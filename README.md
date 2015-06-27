@@ -1,2 +1,2 @@
-# getstarted-datascience
+# datasciencecoursera
 The Data Scientist's Toolbox
